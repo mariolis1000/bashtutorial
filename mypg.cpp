@@ -1,5 +1,5 @@
 #include<iostream>
 
 int main(){
-  std::cout << "fuck you\n";
+  std::cout << "needed a test C++ app\n";
 }
