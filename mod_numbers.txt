@@ -1,0 +1,3 @@
+4 R read
+2 W write
+1 X execute
