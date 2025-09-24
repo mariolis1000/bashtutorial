@@ -4,7 +4,7 @@
 my_location_from=$(pwd)
 #cd ..
 my_location_to=$(cd ..; pwd)
-cd "$my_location_from"
+#cd "$my_location_from"
 
 echo "$my_location_from" 
 echo "$my_location_to"
